@@ -13,4 +13,17 @@ My Languages:
 
 -----
 
+Preferred Libraries:
+ 
+  - SDL 1.2
+  - Unity
+
+-----
+
+Current Projects:
+
+  - None
+
+-----
+
 Check out more on my website! www.rimojo.com
