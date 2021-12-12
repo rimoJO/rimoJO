@@ -27,3 +27,7 @@ Current Projects:
 -----
 
 Check out more on my website! www.rimojo.com
+
+If you have any questions (or anything to say at all), contact me at rimojo@rimojo.com.
+
+Thanks!
