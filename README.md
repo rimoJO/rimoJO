@@ -15,8 +15,8 @@ My Languages:
 
 Preferred Libraries:
  
-  - SDL 1.2
-  - Unity
+  - SDL 1.2 (C++)
+  - Unity (C#)
 
 -----
 
