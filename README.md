@@ -13,7 +13,7 @@ My Languages:
 
 -----
 
-Preferred Libraries:
+Known Libraries:
  
   - SDL 1.2 (C++)
   - Unity (C#)
