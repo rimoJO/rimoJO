@@ -9,7 +9,7 @@ My Languages:
   - C++
   - Unity C#
   - MS-DOS Basic
-  - Visual Basic > 6.0
+  - Visual Basic 6.0
 
 -----
 
