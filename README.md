@@ -1,33 +1,23 @@
-Hello! I'm rimoJO, your average indie dev who also makes music. Thanks for stopping by!
+Hi there! I'm rimoJO. I make programs. Some of them may be interesting.
+Most of my projects include:
 
-This is where you can find my project files, where provided.
+     - Games
 
------
+Those take a while to make, so this will pretty much be other, smaller applications
+I'll put game source code when I can, though.
 
-My Languages:
+I know a few languages, which include:
 
-  - C++
-  - Unity C#
-  - MS-DOS Basic
-  - Visual Basic 6.0
+     - C++
+     - QBasic
+     - Visual Basic 6 (Or any non-.NET version)
+     - C#/Mono (I use Unity)
+     - HTML to some extent
+     - English
 
------
+There isn't much to say aside from that, though
+Thanks for visiting! :D
 
-Known Libraries:
- 
-  - SDL 1.2 (C++)
-  - Unity (C#)
 
------
 
-Current Projects:
-
-  - None
-
------
-
-Check out more on my website! www.rimojo.com
-
-If you have any questions (or anything to say at all), contact me at rimojo@rimojo.com.
-
-Thanks!
+..also visit my website or something (rimojo.com)
